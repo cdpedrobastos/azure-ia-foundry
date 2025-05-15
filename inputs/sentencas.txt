@@ -1,0 +1,3 @@
+O modelo RAG combina recuperação de passagens com geração de linguagem para responder perguntas.
+LangChain facilita a construção de agentes que lidam com múltiplas fontes de dados, como PDFs.
+Os embeddings são vetores que representam o significado de sentenças em um espaço semântico.
